@@ -1,13 +1,10 @@
 # mathChallendgeAI
 solving an equasion from images with pytesseract 
 
-'''
 README
 
-IMPORTANT: 
-guide
-1. select image from popup prompt
-2. answer will pop up in a window
+to run file:
+python3 main.py
 
 install python and pip
 
@@ -26,4 +23,3 @@ funtions are possible and larger equasions as well
 
 support for algebra will be added soon 
     this will include giving a dynamic x value
-'''
